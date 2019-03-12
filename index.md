@@ -1,4 +1,4 @@
-[About Us][about.md]
+[About Us][gorgthelab.github.io/about/about.md]
 
 ## About Us
 
