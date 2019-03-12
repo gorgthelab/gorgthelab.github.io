@@ -1,4 +1,3 @@
-## [About Us](about/about.md)
 
 ### The Lab
 
