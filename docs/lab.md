@@ -4,14 +4,14 @@
 Daniel N. Wilke
 
 ### Full Time
-Dominic Kafka (PhD)
+  Dominic Kafka (PhD)
 
-Younghwan Chae (PhD)
+  Younghwan Chae (PhD)
 
 ### Part Time
-Dineo Ramatlo (PhD)
+  Dineo Ramatlo (PhD)
 
-Daniel Correia (PhD)
+  Daniel Correia (PhD)
 
-Itumeleng Sethsedi (PhD)
+  Itumeleng Sethsedi (PhD)
 
