@@ -14,4 +14,4 @@ Data sources are computed via simulation as well as captured using IoT sensor ne
 
 ### Contact or Requests
 
-gorg.thelab@gmail.com and we’ll help you sort it out.
+gorg.thelab@gmail.com for additional information or requests.
