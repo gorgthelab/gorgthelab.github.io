@@ -1,4 +1,4 @@
-[About Us][../about/about.md]
+[About Us][about.md]
 
 ## About Us
 
