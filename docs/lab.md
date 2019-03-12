@@ -1,6 +1,11 @@
-### The Lab
-1. Dominic Kafka (PhD - Full Time)
-2. Younghwan Chae (PhD - Full Time)
-3. Daniel Correia (PhD - Part Time)
-4. Itumeleng Sethsedi (PhD - Part Time)
-5. Dineo Ramatlo (PhD - Part Time)
+## The Lab
+### Principal Investigator
+Daniel N. Wilke
+### Full Time
+1. Dominic Kafka (PhD)
+2. Younghwan Chae (PhD)
+### Part Time
+3. Dineo Ramatlo (PhD)
+4. Daniel Correia (PhD)
+5. Itumeleng Sethsedi (PhD)
+
