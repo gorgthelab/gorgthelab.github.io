@@ -1,9 +1,6 @@
+### [About Us](docs/about.md)
 
-### The Lab
-
-1. Dominic Kafka (PhD)
-2. Younghwan Chae (PhD)
-3. Daniel Correia (PhD)
+### [The Lab](docs/lab.md)
 
 ### Contact or Requests
 
