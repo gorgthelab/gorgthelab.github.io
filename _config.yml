@@ -1,4 +1,8 @@
 theme: jekyll-theme-cayman
 title: "Gradient-Only Research Group (GORG) The Lab"
 description: "Projects and Activities for GORG conducted in the Department of Mechanical and Aeronautical Engineering at the University of Pretoria, South Africa"
-permalink: /about/
+name : "Daniel N. Wilke"
+email : gorg.thelab@gmail.com
+github : gorglab
+twitter : gorglab
+feedburner : nil
