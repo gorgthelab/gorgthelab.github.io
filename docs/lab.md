@@ -13,4 +13,3 @@ Daniel N. Wilke
   Daniel Correia (PhD)
 
   Itumeleng Sethsedi (PhD)
-
