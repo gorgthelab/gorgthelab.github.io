@@ -9,7 +9,6 @@ Daniel N. Wilke
   Younghwan Chae (PhD)
 
 ### Part Time
-  Dineo Ramatlo (PhD)
 
   Daniel Correia (PhD)
 
