@@ -1,5 +1,5 @@
 - name: GOLS-I
   tag_line: An inexact gradient-only line search method
   author: Dominic Kafka
-  source_URL: "https://github.com/DominicKafka"
+  source_URL: "https://github.com/gorgthelab"
 #  PyPI_URL: "https://pypi.python.org/pypi/codon_tools"
