@@ -13,3 +13,5 @@ github_username:  gorgthelab
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
