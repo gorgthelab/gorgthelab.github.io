@@ -1,0 +1,28 @@
+- name: Prof. Daniel N. Wilke
+  role: Principal Investigator
+  #url: "http://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/237-wilke-claus-o"
+  #pubs: "http://scholar.google.com/citations?user=Nc8U6E4AAAAJ"
+  #blog: "http://serialmentor.com/blog"
+  #github: clauswilke
+
+- name: Dominic Kafka
+  role: PhD student
+  joined: 2017
+  github: DominicKafka
+
+- name: Younghwan Chae
+  role: PhD student
+  joined: 2017
+  #github: a-teufel
+
+- name: Daniel Correia
+  role: Part time PhD student
+#  joined: 2017
+#  github: corydubois
+
+- name: Itumeleng Sethsedi 
+  role: Part time PhD student
+#  joined: 2015
+#  url: "http://benjack.io"
+#  pubs: "https://scholar.google.com/citations?user=b98WUfYAAAAJ"
+#  github: benjaminjack

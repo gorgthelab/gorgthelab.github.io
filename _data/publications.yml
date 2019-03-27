@@ -1,0 +1,21 @@
+- author: D. N. Wilke, J. A. Snyman, A. A. Groenwold 
+  year: 2013
+  title: "Gradient-only approaches to avoid spurious local minima in unconstrained optimization"
+  doi:  10.1007/s11081-011-9178-7
+
+- author: J. A. Snyman, D. N. Wilke 
+  year: 2018
+  title: "Practical Mathematical Optimization"
+  doi: 10.1007/978-3-319-77586-9
+
+- author: D. Kafka, D. N. Wilke
+  year: preprint
+  title: "Visual interpretation of the robustness of Non-Negative Associative Gradient Projection Points over function minimizers in mini-batch sampled loss functions"
+  ref: "arXiv:1903.08552"
+
+- author: D. Kafka, D. N. Wilke
+  year: preprint
+  title: "Gradient-only line searches: An Alternative to Probabilistic Line Searches"
+  ref: "arXiv:1903.09383"
+
+  
