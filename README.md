@@ -1,2 +1,2 @@
 # gorgthelab.github.io
-Source for gorgthelab.org website
+Source for the gorgthelab.github.io website
