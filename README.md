@@ -1,2 +1,2 @@
-# wilkelab.github.io
-Source for wilkelab.org website
+# gorgthelab.github.io
+Source for gorgthelab.org website
